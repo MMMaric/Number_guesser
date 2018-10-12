@@ -4,4 +4,5 @@ About : Number guesser C# project
 
 Languages used : 
 
-    1. C#
+    1. .NET
+    2. C#
