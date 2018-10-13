@@ -1,6 +1,6 @@
 # Number_guesser
 
-About : Number guesser C# project
+About : Number guesser C# project.
 
 Languages used : 
 
