@@ -1,13 +1,13 @@
 # Number_guesser
 
---> About : Number guesser C# project.
+---> About : Number guesser C# project.
 
---> Technologies used : 
+---> Technologies used : 
 
     1. .NET
     2. C#
     
-<b>--> How to use:</b> 
+<b>---> How to use:</b> 
 
     1. Download ZIP file or clone it into your computer.
     2. Right click on index.html 
