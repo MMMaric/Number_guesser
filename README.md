@@ -1,8 +1,8 @@
 # Number_guesser
 
----> About : Number guesser C# project.
+<b>---> About : </b> Number guesser C# project.
 
----> Technologies used : 
+<b>---> Technologies used : </b> 
 
     1. .NET
     2. C#
