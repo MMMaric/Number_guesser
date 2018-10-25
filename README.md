@@ -6,6 +6,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 <b>---> About : </b> Number guesser C# project.
 
+### Prerequisites
+
 <b>---> Technologies used : </b> 
 
     1. .NET
